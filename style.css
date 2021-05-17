@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(224, 246, 250);
+}
+hr{
+    border-style: none none dotted none;
+    border-color: grey;
+    border-width: .5vw;
+    width: 5vw;
+}
+
+h1,h3{
+    color: #66bfbf;
+}
